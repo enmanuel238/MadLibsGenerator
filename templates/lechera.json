@@ -1,0 +1,4 @@
+{
+    "word_descriptions":["adjectivo", "parte_del_cuerpo", "lugar", "verbo",  "adjectivo", "verbo", "verbo (en futuro)", "verbo", "animal (en plural)", "verbo", "animal"],
+    "template": "Érase una vez un joven {} que llevaba un cubo de {} en la {}, camino al {} para {}. Durante el camino, el {} joven iba imaginando lo que podría conseguir con la {}. Pensó que en primer lugar y con el dinero de la {} {} un canasto de {}, los cuales una vez eclosionaran le permitiría {} una pequeña granja de {}. Una vez estos crecieran podría {}, lo que le daría dinero para comprarse un {}."
+}
